@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Web Development , App Development , cloud<br>👯 I’m looking to collaborate on any Web Dev related projects<br>⚡ Fun fact: The first "computer bug" was an actual bug.<br>📬 Reach me at: ainaresh1511@gmail.com
+🔭 I’m currently working on Data Science , cloud<br>👯 I’m looking to collaborate on any Web Dev related projects<br>⚡ Fun fact: The first "computer bug" was an actual bug.<br>📬 Reach me at: ainaresh1511@gmail.com
 
 
 ## 🌐 Socials:
